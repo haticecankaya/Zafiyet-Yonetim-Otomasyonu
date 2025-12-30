@@ -1,0 +1,62 @@
+[
+    {
+        "cve_id": "CVE-2024-37869",
+        "severity": "HIGH",
+        "attack_vector": "NETWORK",
+        "ip": "172.23.227.247"
+    },
+    {
+        "cve_id": "CVE-2019-16779",
+        "severity": "MEDIUM",
+        "attack_vector": "NETWORK",
+        "ip": "10.35.252.147"
+    },
+    {
+        "cve_id": "CVE-2024-1731",
+        "severity": "HIGH",
+        "attack_vector": "NETWORK",
+        "ip": "192.168.59.63"
+    },
+    {
+        "cve_id": "CVE-2022-26127",
+        "severity": "HIGH",
+        "attack_vector": "LOCAL",
+        "ip": "192.168.154.76"
+    },
+    {
+        "cve_id": "CVE-2016-9953",
+        "severity": "CRITICAL",
+        "attack_vector": "NETWORK",
+        "ip": "192.168.139.226"
+    },
+    {
+        "cve_id": "CVE-2022-38860",
+        "severity": "MEDIUM",
+        "attack_vector": "LOCAL",
+        "ip": "172.17.245.10"
+    },
+    {
+        "cve_id": "CVE-2020-14206",
+        "severity": "MEDIUM",
+        "attack_vector": "NETWORK",
+        "ip": "172.25.221.133"
+    },
+    {
+        "cve_id": "CVE-2018-8767",
+        "severity": "MEDIUM",
+        "attack_vector": "NETWORK",
+        "ip": "172.25.114.19"
+    },
+    {
+        "cve_id": "CVE-2019-20885",
+        "severity": "HIGH",
+        "attack_vector": "NETWORK",
+        "ip": "10.36.63.237"
+    },
+    {
+        "cve_id": "CVE-2022-37111",
+        "severity": "CRITICAL",
+        "attack_vector": "NETWORK",
+        "ip": "172.28.237.74"
+    }
+]

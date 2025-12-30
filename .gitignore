@@ -1,0 +1,27 @@
+# --- Python Derleme ve Önbellek Dosyaları ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Sanal Ortam (Virtual Environment) ---
+# Bilgisayarınızdaki kütüphanelerin olduğu klasörü yüklemeyin
+venv/
+.venv/
+env/
+
+# --- İşletim Sistemi Gereksiz Dosyaları ---
+.DS_Store
+Thumbs.db
+
+# --- Gizli Anahtarlar ve Ayarlar (ÇOK ÖNEMLİ) ---
+.env
+secrets.json
+jira_config.json
+
+# --- Streamlit ve Editör Ayarları ---
+.streamlit/
+.vscode/
+.idea/
+
+# --- Veri Klasörü ---
+data/
