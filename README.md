@@ -26,6 +26,7 @@ Bu proje, boyutları nedeniyle GitHub deposuna yüklenmemiş olan harici veri se
 Proje ana dizininde **`data`** adında yeni bir klasör oluşturun.
 Aşağıdaki Kaggle bağlantısından gerekli veri setlerini indirin:
     * 🔗 [Vulnerability Management Datasets (Kaggle)](https://www.kaggle.com/datasets/francescomanzoni/vulnerability-management-datasets)
+
 İndirdiğiniz arşivden çıkan aşağıdaki iki CSV dosyasını oluşturduğunuz `data/` klasörüne kopyalayın:
     * `cve_corpus.csv`
     * `cve_cisa_epss_enriched_dataset.csv`
