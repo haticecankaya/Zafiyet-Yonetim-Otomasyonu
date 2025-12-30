@@ -29,6 +29,7 @@ Aşağıdaki Kaggle bağlantısından gerekli veri setlerini indirin:
 İndirdiğiniz arşivden çıkan aşağıdaki iki CSV dosyasını oluşturduğunuz `data/` klasörüne kopyalayın:
     * `cve_corpus.csv`
     * `cve_cisa_epss_enriched_dataset.csv`
+
 ⚠️ **Önemli Not:** Kodun hatasız çalışması için dosya isimlerinin yukarıdaki gibi olduğundan ve dosyaların `data/` klasörü içinde yer aldığından emin olunuz.
  
 4. Uygulamayı başlatın:
