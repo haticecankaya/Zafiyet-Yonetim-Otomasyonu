@@ -41,7 +41,7 @@ text Zafiyet-Yonetim-Projesi/
 4. Uygulamayı başlatın:
    ```bash
    streamlit run main.py
-   ``'
+   
 
 ## 🧪 Testler
 Projedeki birim testleri çalıştırmak için:
