@@ -12,7 +12,7 @@ Bu proje, JSON formatındaki zafiyet tarama raporlarını analiz eden, EPSS ve C
 
 1. Depoyu klonlayın:
    ```bash
-   git clone [https://github.com/haticecankaya/Zafiyet-Yonetim-Otomasyonu.git]
+   git clone https://github.com/haticecankaya/Zafiyet-Yonetim-Otomasyonu.git
    cd REPO_ADIN
    ```
 
