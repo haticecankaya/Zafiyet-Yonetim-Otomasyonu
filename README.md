@@ -31,17 +31,17 @@ Aşağıdaki Kaggle bağlantısından gerekli veri setlerini indirin:
     * `cve_cisa_epss_enriched_dataset.csv`
 ⚠️ **Önemli Not:** Kodun hatasız çalışması için dosya isimlerinin yukarıdaki gibi olduğundan ve dosyaların `data/` klasörü içinde yer aldığından emin olunuz.
 **Klasör yapısı şu şekilde görünmelidir:**
-```text Zafiyet-Yonetim-Projesi/
+text Zafiyet-Yonetim-Projesi/
 ├── main.py
 ├── ...
 └── data/
     ├── cve_corpus.csv
-    └── cve_cisa_epss_enriched_dataset.csv
+    └── cve_cisa_epss_enriched_dataset.csv  
 
 4. Uygulamayı başlatın:
    ```bash
    streamlit run main.py
-   ```
+   ``'
 
 ## 🧪 Testler
 Projedeki birim testleri çalıştırmak için:
